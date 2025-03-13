@@ -16,7 +16,7 @@ You can explore the interactive dashboard here:
 
 ## Project Concept
 
-The project was developed as part of a task for a transportation ministry department. The objective was to analyze flight data from various airlines and airports, compare their performance, and identify outliers in terms of delays and cancellations. The dashboard provides insights into patterns such as excessive taxi times at certain airports, which could be addressed by adjusting schedules.
+The project was developed as part of a task for a transportation ministry department. The objective was to analyze flight data from various airlines and airports, compare their performance, and identify outliers in terms of delays and cancellations. The dashboard provides insights into patterns and potential causes of flight delays, offering actionable recommendations to improve operational efficiency and reduce disruptions.
 
 ---
 
