@@ -1,7 +1,3 @@
-Here’s a `README.md` file for your GitHub project based on the provided information:
-
----
-
 # Flight Delay and Cancellations Analysis (2015)
 
 ## Project Overview
