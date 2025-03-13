@@ -83,11 +83,3 @@ The project was presented in two stages:
 ## License
 
 This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-Feel free to explore the dashboard and provide feedback! For any questions or suggestions, please open an issue or contact me directly.
-
----
-
-This `README.md` provides a clear and concise overview of your project, its goals, and how to interact with the Tableau dashboard. You can customize it further if needed!
