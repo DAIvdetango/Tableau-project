@@ -70,13 +70,6 @@ The project was developed as part of a task for a transportation ministry depart
 3. Hover over visualizations to view tooltips and additional details.
 4. Switch between different views using parameters and set actions.
 
----
-
-## Presentation and Feedback
-
-The project was presented in two stages:
-1. **Business Presentation**: Demonstrated the dashboard's functionality, layout, and business insights to potential stakeholders.
-2. **Technical Presentation**: Explained the data model, calculated fields, visualization implementation, and answered questions from peers and instructors.
 
 ---
 
