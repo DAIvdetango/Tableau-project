@@ -4,6 +4,7 @@
 
 This project focuses on analyzing flight delays and cancellations for the year 2015. The goal is to provide insights into the performance of airlines and airports, identify patterns in delays and cancellations, and suggest potential solutions to improve operational efficiency. The analysis is presented in an interactive Tableau dashboard, designed to be user-friendly and informative for business stakeholders.
 
+!(Flight Delay and Cancellation.png)
 
 ### Tableau Public Link
 You can explore the interactive dashboard here:  
